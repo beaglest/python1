@@ -1,4 +1,5 @@
 #This is my first comment
+# This is another comment
 
 def countMerge(arr, l, m, r):
 
@@ -25,6 +26,7 @@ def countMerge(arr, l, m, r):
 
     return res
 
+# This function returns the number of inversions
 
 def countInv(arr, left, right):
     res = 0
